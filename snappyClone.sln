@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snappyClone", "snappyClone\snappyClone.vcxproj", "{3746C86D-7F64-41AA-A35A-2D14345DD93D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Archtest", "..\ArchTest\Archtest\Archtest.vcxproj", "{13E11B70-28A1-45AE-8D4E-CDCB9C234593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3746C86D-7F64-41AA-A35A-2D14345DD93D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3746C86D-7F64-41AA-A35A-2D14345DD93D}.Debug|Win32.Build.0 = Debug|Win32
+		{3746C86D-7F64-41AA-A35A-2D14345DD93D}.Release|Win32.ActiveCfg = Release|Win32
+		{3746C86D-7F64-41AA-A35A-2D14345DD93D}.Release|Win32.Build.0 = Release|Win32
+		{13E11B70-28A1-45AE-8D4E-CDCB9C234593}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13E11B70-28A1-45AE-8D4E-CDCB9C234593}.Debug|Win32.Build.0 = Debug|Win32
+		{13E11B70-28A1-45AE-8D4E-CDCB9C234593}.Release|Win32.ActiveCfg = Release|Win32
+		{13E11B70-28A1-45AE-8D4E-CDCB9C234593}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
